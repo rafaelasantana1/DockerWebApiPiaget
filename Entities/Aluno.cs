@@ -8,7 +8,7 @@ namespace Entities
 {
 
     /// <summary>
-    /// Classe Aluno e suas propriedades 
+    /// Classe Aluno e suas propriedades (Id,Nome,Escola e Professor)
     /// </summary>
     public class Aluno
     {
